@@ -1,0 +1,8 @@
+export const SEND_REGISTER = 'SEND_REGISTER';
+export const SET_LOAD = 'SET_LOAD';
+
+export const LOGIN_REQUEST = 'LOGIN_REQUEST';
+export const LOGIN_SUCCESS = 'LOGIN_SUCCESS';
+export const LOGIN_FAILURE = 'LOGIN_FAILURE';
+
+export const UPDATE_REQUEST = 'UPDATE_REQUEST';
